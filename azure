@@ -1,0 +1,73 @@
+create table class(id integer,name varchar(20),marks integer);
+insert into class values(1,"mahesh",10);
+insert into class values(2,"suresh",20);
+insert into class values(3,"raghu",30);
+insert into class values(4,"krish",35);
+insert into class values(5,"vinay",49);
+#alter table class change name f_name varchar(30);
+#alter table class add  age integer  not null after name;
+#alter table class drop age;
+#rename table class to student;
+
+#truncate table class;
+#show columns in class;create table class(id integer,name varchar(20),marks integer);
+insert into class values(1,"mahesh",10);
+insert into class values(2,"suresh",20);
+insert into class values(3,"raghu",30);
+insert into class values(4,"krish",35);
+insert into class values(5,"vinay",49);
+#alter table class change name f_name varchar(30);
+#alter table class add  age integer  not null after name;
+#alter table class drop age;
+#rename table class to student;
+
+#truncate table class;
+#show columns in class;create table class(id integer,name varchar(20),marks integer);
+insert into class values(1,"mahesh",10);
+insert into class values(2,"suresh",20);
+insert into class values(3,"raghu",30);
+insert into class values(4,"krish",35);
+insert into class values(5,"vinay",49);
+#alter table class change name f_name varchar(30);
+#alter table class add  age integer  not null after name;
+#alter table class drop age;
+#rename table class to student;
+
+#truncate table class;
+#show columns in class;create table class(id integer,name varchar(20),marks integer);
+insert into class values(1,"mahesh",10);
+insert into class values(2,"suresh",20);
+insert into class values(3,"raghu",30);
+insert into class values(4,"krish",35);
+insert into class values(5,"vinay",49);
+#alter table class change name f_name varchar(30);
+#alter table class add  age integer  not null after name;
+#alter table class drop age;
+#rename table class to student;
+
+#truncate table class;
+#show columns in class;create table class(id integer,name varchar(20),marks integer);
+insert into class values(1,"mahesh",10);
+insert into class values(2,"suresh",20);
+insert into class values(3,"raghu",30);
+insert into class values(4,"krish",35);
+insert into class values(5,"vinay",49);
+#alter table class change name f_name varchar(30);
+#alter table class add  age integer  not null after name;
+#alter table class drop age;
+#rename table class to student;
+
+#truncate table class;
+#show columns in class;create table class(id integer,name varchar(20),marks integer);
+insert into class values(1,"mahesh",10);
+insert into class values(2,"suresh",20);
+insert into class values(3,"raghu",30);
+insert into class values(4,"krish",35);
+insert into class values(5,"vinay",49);
+#alter table class change name f_name varchar(30);
+#alter table class add  age integer  not null after name;
+#alter table class drop age;
+#rename table class to student;
+
+#truncate table class;
+#show columns in class;

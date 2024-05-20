@@ -1,0 +1,76 @@
+-- create a table
+Create table pharmacy (
+    PATIENT_ID int PRIMARY KEY, NAME TEXT NOT NULL ,AGE integer, ADDRESS TEXT NOT NULL,DOJ VARCHAR(30),ROOM VARCHAR(20)
+);
+#show colomns in the pharmacy
+Insert into pharmacy 
+values(1234,"Joseph",56,"Hyderabad",'03-MAY-2020',"single"),
+    (1235,"Ahmed",65,"Hyderabad",'05-MAY-2020',"shared"),
+    (1236,"Nirnay",76,"Hyderabad",'08-MAY-2020',"General"),
+     (1237,"Soria",66,"Hyderabad",'08-MAY-2020',"single"),
+    (1238,"Rahul",46,"Hyderabad",'13-MAY-2020',"General"),
+    (1239,"Kirsten",37,"Hyderabad",'23-MAY-2020',"Single"),
+    (1240,"Sharief",56,"Hyderabad",'03-JUNE-2020',"General");
+select *from pharmacy;
+
+
+OUTPUT:--
+
+1234	Joseph	56	Hyderabad	03-MAY-2020	single
+1235	Ahmed	65	Hyderabad	05-MAY-2020	shared
+1236	Nirnay	76	Hyderabad	08-MAY-2020	General
+1237	Soria	66	Hyderabad	08-MAY-2020	single
+1238	Rahul	46	Hyderabad	13-MAY-2020	General
+1239	Kirsten	37	Hyderabad	23-MAY-2020	Single
+1240	Sharief	56	Hyderabad	03-JUNE-2020	General
+-- create a table
+Create table pharmacy (
+    PATIENT_ID int PRIMARY KEY, NAME TEXT NOT NULL ,AGE integer, ADDRESS TEXT NOT NULL,DOJ VARCHAR(30),ROOM VARCHAR(20)
+);
+#show colomns in the pharmacy
+Insert into pharmacy 
+values(1234,"Joseph",56,"Hyderabad",'03-MAY-2020',"single"),
+    (1235,"Ahmed",65,"Hyderabad",'05-MAY-2020',"shared"),
+    (1236,"Nirnay",76,"Hyderabad",'08-MAY-2020',"General"),
+     (1237,"Soria",66,"Hyderabad",'08-MAY-2020',"single"),
+    (1238,"Rahul",46,"Hyderabad",'13-MAY-2020',"General"),
+    (1239,"Kirsten",37,"Hyderabad",'23-MAY-2020',"Single"),
+    (1240,"Sharief",56,"Hyderabad",'03-JUNE-2020',"General");
+select *from pharmacy;
+
+
+OUTPUT:--
+
+1234	Joseph	56	Hyderabad	03-MAY-2020	single
+1235	Ahmed	65	Hyderabad	05-MAY-2020	shared
+1236	Nirnay	76	Hyderabad	08-MAY-2020	General
+1237	Soria	66	Hyderabad	08-MAY-2020	single
+1238	Rahul	46	Hyderabad	13-MAY-2020	General
+1239	Kirsten	37	Hyderabad	23-MAY-2020	Single
+1240	Sharief	56	Hyderabad	03-JUNE-2020	General
+-- create a table
+Create table pharmacy (
+    PATIENT_ID int PRIMARY KEY, NAME TEXT NOT NULL ,AGE integer, ADDRESS TEXT NOT NULL,DOJ VARCHAR(30),ROOM VARCHAR(20)
+);
+#show colomns in the pharmacy
+Insert into pharmacy 
+values(1234,"Joseph",56,"Hyderabad",'03-MAY-2020',"single"),
+    (1235,"Ahmed",65,"Hyderabad",'05-MAY-2020',"shared"),
+    (1236,"Nirnay",76,"Hyderabad",'08-MAY-2020',"General"),
+     (1237,"Soria",66,"Hyderabad",'08-MAY-2020',"single"),
+    (1238,"Rahul",46,"Hyderabad",'13-MAY-2020',"General"),
+    (1239,"Kirsten",37,"Hyderabad",'23-MAY-2020',"Single"),
+    (1240,"Sharief",56,"Hyderabad",'03-JUNE-2020',"General");
+select *from pharmacy;
+
+
+OUTPUT:--
+
+1234	Joseph	56	Hyderabad	03-MAY-2020	single
+1235	Ahmed	65	Hyderabad	05-MAY-2020	shared
+1236	Nirnay	76	Hyderabad	08-MAY-2020	General
+1237	Soria	66	Hyderabad	08-MAY-2020	single
+1238	Rahul	46	Hyderabad	13-MAY-2020	General
+1239	Kirsten	37	Hyderabad	23-MAY-2020	Single
+1240	Sharief	56	Hyderabad	03-JUNE-2020	General
+
